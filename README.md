@@ -1,3 +1,1 @@
-first go to the server directory
-<code>'''bash
-cd server<\code>
+<pre> First go to the server directory: ```bash cd server ``` </pre>
