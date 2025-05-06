@@ -1,1 +1,5 @@
-<pre> ```bash cd server ``` </pre>
+First go to the server directory:
+'''
+cd server
+'''
+
