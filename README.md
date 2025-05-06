@@ -1,3 +1,3 @@
 first go to the server directory
-'''bash
-cd server
+<code>'''bash
+cd server<\code>
