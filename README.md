@@ -1,5 +1,5 @@
 First go to the server directory:<br>
-<code>'''
+<code>
 cd server
-'''</code>
+</code>
 
